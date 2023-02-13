@@ -1,0 +1,36 @@
+body {
+    overflow-y: scroll;
+}
+
+.app_flex{
+    display: flex;
+    margin-top: 1rem;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.app_page{
+    text-align: center;
+    width: 10rem;
+}
+.app__footer{
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    margin-top: 5rem;
+    width: 100%;
+    background-color: #333333;
+}
+.copyright{
+    margin-top: 1rem;
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+}
+.app__change{
+   margin-bottom: 2rem;
+}
+
+.app__non{
+    width: 100%;
+}
